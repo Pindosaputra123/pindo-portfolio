@@ -675,7 +675,7 @@ body.dark-theme {
   margin-bottom: 4.5rem;
 }
 
-.projects__container .swiper-pagination-bullets {
+/* .projects__container .swiper-pagination-bullets {
   bottom: 0;
 }
 
@@ -686,7 +686,7 @@ body.dark-theme {
 
 .projects__container .swiper-pagination-bullet-active {
   background-color: var(--title-color);
-}
+} */
 
 /*=============== CERTIFICATE ===============*/
 .certificate__container {
@@ -761,7 +761,7 @@ body.dark-theme {
   margin-bottom: 4.5rem;
 }
 
-.certificate__container .swiper-pagination-bullets {
+/* .certificate__container .swiper-pagination-bullets {
   bottom: 0;
 }
 
@@ -772,7 +772,7 @@ body.dark-theme {
 
 .certificate__container .swiper-pagination-bullet-active {
   background-color: var(--title-color);
-}
+} */
 
 /*=============== TESTIMONIAL ===============*/
 .testimonial {
